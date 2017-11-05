@@ -131,6 +131,7 @@ ul.menu a {
 .section-image img {
     max-width: 100%;
     max-height: 256px;
+    max-width: 150px;
     border:2px solid #fff;
 }
 
@@ -162,7 +163,7 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 800px) { 
+@media (max-width: 900px) { 
 
     h1 {
         margin-bottom:10px;
