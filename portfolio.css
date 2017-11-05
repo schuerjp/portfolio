@@ -162,7 +162,7 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 800px) { 
+@media (max-width: 900px) { 
 
     h1 {
         margin-bottom:10px;
